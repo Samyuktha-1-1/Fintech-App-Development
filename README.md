@@ -91,7 +91,7 @@
   <li>📩 Email: <a href="mailto:business@fourchain.com">business@fourchain.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/company/fourchain">https://www.linkedin.com/company/fourchain</a></li>
   <li>📞 Schedule a Call: <a href="https://calendly.com/santhosh-fourchain/30min">Schedule a Call</a></li>
-  <li> Our Other Services: <a href= "https://github.com/Samyuktha-1-1/Crypto-Payment-Gateway-Development-">Our Other Services</a></li>
+  <li> Our Other Services: <a href= "https://github.com/Samyuktha-1-1/Crypto-Payment-Gateway-Development-">Crypto Payment Gateway</a></li>
 </ul>
 
 <p><a href="https://www.fourchain.com/services/fintech-app-development"><strong>Hire Our App Developers</strong></a></p>
