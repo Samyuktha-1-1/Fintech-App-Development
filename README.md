@@ -1,5 +1,3 @@
-# Fintech-App-Development
-
 <h1>Fintech App Development</h1>
 
 <p>Fintech App Development is the process of creating custom mobile, web, or desktop software for financial institutions to process fintech operations.</p>
